@@ -1,0 +1,9 @@
+c:\users\jlikes\documents\visual studio 2012\Projects\StringGenerator\StringGenerator\bin\Debug\StringGenerator.exe.config
+c:\users\jlikes\documents\visual studio 2012\Projects\StringGenerator\StringGenerator\obj\Debug\StringGenerator.csprojResolveAssemblyReference.cache
+c:\users\jlikes\documents\visual studio 2012\Projects\StringGenerator\StringGenerator\obj\Debug\StringGenerator.Form1.resources
+c:\users\jlikes\documents\visual studio 2012\Projects\StringGenerator\StringGenerator\obj\Debug\StringGenerator.Properties.Resources.resources
+c:\users\jlikes\documents\visual studio 2012\Projects\StringGenerator\StringGenerator\obj\Debug\StringGenerator.csproj.GenerateResource.Cache
+c:\users\jlikes\documents\visual studio 2012\Projects\StringGenerator\StringGenerator\bin\Debug\StringGenerator.exe
+c:\users\jlikes\documents\visual studio 2012\Projects\StringGenerator\StringGenerator\bin\Debug\StringGenerator.pdb
+c:\users\jlikes\documents\visual studio 2012\Projects\StringGenerator\StringGenerator\obj\Debug\StringGenerator.exe
+c:\users\jlikes\documents\visual studio 2012\Projects\StringGenerator\StringGenerator\obj\Debug\StringGenerator.pdb
